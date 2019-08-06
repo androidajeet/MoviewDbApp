@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-
+import './Toolbar.css';
 
 
 class Toolbar extends Component {
 
     render() {
         return (
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg navbar-light bg-light Navbar">
                 <div className="container-fluid">
                     <div className="col-xs-4">
                         <a className="navbar-brand" href="#">React Quiz App</a>
