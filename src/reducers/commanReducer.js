@@ -1,5 +1,5 @@
 const initialState = {
-  name: "Ajeet",
+  name: "Ajeet yadav",
   age: 27
 };
 
